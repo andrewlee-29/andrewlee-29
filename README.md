@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrew Lee</h1>
 <h3 align="center">A passionate software developer</h3>
+<h3 align="center">A person who loves to challenge himself and solves problems. </h3>
+<h3 align="center">Strong interest in Computer Science and Data Science field.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewlee-29&label=Profile%20views&color=0e75b6&style=flat" alt="andrewlee-29" /> </p>
 
